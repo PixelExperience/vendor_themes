@@ -1,3 +1,4 @@
 # Primary Themes
 PRODUCT_PACKAGES += \
-    SystemDarkTheme
+    SystemDarkTheme \
+    SettingsDarkTheme
