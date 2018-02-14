@@ -1,6 +1,6 @@
 # Primary Themes
 PRODUCT_PACKAGES += \
-    SystemDarkTheme \
-    SettingsDarkTheme \
-    DuiDarkTheme \
-    GBoardDarkTheme
+    SystemDark \
+    SettingsDark \
+    DuiDark \
+    GBoardDark
