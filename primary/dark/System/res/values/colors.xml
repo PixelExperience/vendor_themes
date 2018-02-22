@@ -41,4 +41,7 @@
     <color name="toast_bg_color">@*android:color/background_material_dark</color>
     <color name="toast_text_color">@android:color/white</color>
 
+    <!-- Permission icon -->
+    <color name="app_permission_icon_tint">@android:color/white</color>
+
 </resources>
