@@ -23,4 +23,7 @@
     <!-- Notification info -->
     <color name="notification_info_button_text">@*android:color/notification_default_color</color>
 
+    <!-- Auto fill dialog -->
+    <color name="autofill_save_title_color">@android:color/black</color>
+    <color name="autofill_autofill_save_custom_subtitle_color">@android:color/black</color>
 </resources>
