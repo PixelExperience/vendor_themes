@@ -52,7 +52,7 @@ public class ThemeAccentUtils {
     private static final String[] DARK_THEMES = {
         "com.android.system.theme.dark", // 0
         "com.android.settings.theme.dark", // 1
-        "com.android.dui.theme.dark", // 2
+        "com.android.systemui.theme.dark", // 2
         "com.android.gboard.theme.dark", // 3
     };
 
