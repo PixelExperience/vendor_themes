@@ -2,7 +2,7 @@
 PRODUCT_PACKAGES += \
     SystemDark \
     SettingsDark \
-    DuiDark \
+    SystemUIDark \
     GBoardDark
 
 # Accents colors
