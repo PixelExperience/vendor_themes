@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Primary colors -->
+    <string name="system_overlay_dark">System primary theme: Dark</string>
+    <string name="systemui_overlay_dark">SystemUI primary theme: Dark</string>
+    <string name="settings_overlay_dark">Settings primary theme: Dark</string>
+    <string name="gboard_overlay_dark">GBoard primary theme: Dark</string>
+
+    <!-- Accent colors -->
+    <string name="accent_color_amber">System theme: Amber</string>
+    <string name="accent_color_black">System theme: Black</string>
+    <string name="accent_color_bluegrey">System theme: Blue Grey</string>
+    <string name="accent_color_blue">System theme: Blue</string>
+    <string name="accent_color_brown">System theme: Brown</string>
+    <string name="accent_color_cyan">System theme: Cyan</string>
+    <string name="accent_color_deeporange">System theme: Deep Orange</string>
+    <string name="accent_color_deeppurple">System theme: Deep Purple</string>
+    <string name="accent_color_green">System theme: Green</string>
+    <string name="accent_color_grey">System theme: Grey</string>
+    <string name="accent_color_indigo">System theme: Indigo</string>
+    <string name="accent_color_lightblue">System theme: Light Blue</string>
+    <string name="accent_color_lightgreen">System theme: Light Green</string>
+    <string name="accent_color_lime">System theme: Lime</string>
+    <string name="accent_color_orange">System theme: Orange</string>
+    <string name="accent_color_pink">System theme: Pink</string>
+    <string name="accent_color_purple">System theme: Purple</string>
+    <string name="accent_color_red">System theme: Red</string>
+    <string name="accent_color_teal">System theme: Teal</string>
+    <string name="accent_color_white">System theme: White</string>
+    <string name="accent_color_yellow">System theme: Yellow</string>
+
+</resources>
