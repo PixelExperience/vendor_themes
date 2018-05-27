@@ -16,5 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">સિસ્ટમ પ્રાથમિક થીમ: ડાર્ક</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">સિસ્ટમ થીમ: અંબર</string>
+  <string name="accent_color_bluegrey">સિસ્ટમ થીમ: બ્લુ ગ્રે</string>
+  <string name="accent_color_deeporange">સિસ્ટમ થીમ: ડીપ ઓરેન્જ</string>
+  <string name="accent_color_lightblue">સિસ્ટમ થીમ: લાઇટ બ્લુ</string>
 </resources>

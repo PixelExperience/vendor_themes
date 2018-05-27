@@ -16,30 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
-  <string name="system_overlay_dark">Süsteemi peamine teema: tume</string>
-  <string name="systemui_overlay_dark">SystemUI peamine teema: tume</string>
-  <string name="settings_overlay_dark">Sätete esmane teema: tume</string>
-  <string name="gboard_overlay_dark">GBoard peamine teema: tume</string>
+  <string name="system_overlay_dark">Süsteemi peamine teema: Tume</string>
+  <string name="systemui_overlay_dark">SystemUI peamine teema: Tume</string>
+  <string name="settings_overlay_dark">Seadete peamine teema: Tume</string>
+  <string name="gboard_overlay_dark">GBoard peamine teema: Tume</string>
   <!-- Accent colors -->
-  <string name="accent_color_amber">Süsteemi theme: Amber</string>
-  <string name="accent_color_black">Süsteemi theme: must</string>
-  <string name="accent_color_bluegrey">Süsteemi theme: sinine Hall</string>
-  <string name="accent_color_blue">Süsteemi theme: sinine</string>
-  <string name="accent_color_brown">Süsteemi theme: Brown</string>
-  <string name="accent_color_cyan">Süsteemi theme: tsüaan</string>
-  <string name="accent_color_deeporange">Süsteemi theme: Deep Orange</string>
-  <string name="accent_color_deeppurple">Süsteemi theme: Deep Purple</string>
-  <string name="accent_color_green">Süsteemi theme: roheline</string>
-  <string name="accent_color_grey">Süsteemi theme: Hall</string>
-  <string name="accent_color_indigo">Süsteemi teema: Indigo</string>
-  <string name="accent_color_lightblue">Süsteemi theme: helesinine</string>
-  <string name="accent_color_lightgreen">Süsteemi theme: heleroheline</string>
-  <string name="accent_color_lime">Süsteemi theme: laimi</string>
-  <string name="accent_color_orange">Süsteemi theme: Orange</string>
-  <string name="accent_color_pink">Süsteemi theme: roosa</string>
-  <string name="accent_color_purple">Süsteemi theme: lilla</string>
-  <string name="accent_color_red">Süsteemi theme: punane</string>
-  <string name="accent_color_teal">Süsteemi theme: meresinine</string>
-  <string name="accent_color_white">Süsteemi theme: valge</string>
-  <string name="accent_color_yellow">Süsteemi theme: kollane</string>
+  <string name="accent_color_amber">Süsteemi teema: Merevaigukollane</string>
+  <string name="accent_color_black">Süsteemi teema: Must</string>
+  <string name="accent_color_bluegrey">Süsteemi teema: Sinakashall</string>
+  <string name="accent_color_blue">Süsteemi teema: Sinine</string>
+  <string name="accent_color_brown">Süsteemi teema: Pruun</string>
+  <string name="accent_color_cyan">Süsteemi teema: Rohekassinine</string>
+  <string name="accent_color_deeporange">Süsteemi teema: Tumeoranž</string>
+  <string name="accent_color_deeppurple">Süsteemi teema: Tumelilla</string>
+  <string name="accent_color_green">Süsteemi teema: Roheline</string>
+  <string name="accent_color_grey">Süsteemi teema: Hall</string>
+  <string name="accent_color_indigo">Süsteemi teema: Sügavsinine</string>
+  <string name="accent_color_lightblue">Süsteemi teema: Helesinine</string>
+  <string name="accent_color_lightgreen">Süsteemi teema: Heleroheline</string>
+  <string name="accent_color_lime">Süsteemi teema: Laimiroheline</string>
+  <string name="accent_color_orange">Süsteemi teema: Oranž</string>
+  <string name="accent_color_pink">Süsteemi teema: Roosa</string>
+  <string name="accent_color_purple">Süsteemi teema: Lilla</string>
+  <string name="accent_color_red">Süsteemi teema: Punane</string>
+  <string name="accent_color_teal">Süsteemi teema: Meresinine</string>
+  <string name="accent_color_white">Süsteemi teema: Valge</string>
+  <string name="accent_color_yellow">Süsteemi teema: Kollane</string>
 </resources>

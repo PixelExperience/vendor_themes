@@ -17,4 +17,13 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <!-- Accent colors -->
+  <string name="accent_color_black">सिस्टिम थीम: काळी</string>
+  <string name="accent_color_bluegrey">सिस्टिम थीम: निळी राखाडी</string>
+  <string name="accent_color_blue">सिस्टिम थीम: निळी</string>
+  <string name="accent_color_brown">सिस्टिम थीम: तपकिरी</string>
+  <string name="accent_color_cyan">सिस्टिम थीम: आकाशी</string>
+  <string name="accent_color_deeporange">सिस्टिम थीम: नारिंगी</string>
+  <string name="accent_color_deeppurple">सिस्टिम थीम: जांभळा</string>
+  <string name="accent_color_green">सिस्टिम थीम: हिरवा</string>
+  <string name="accent_color_grey">सिस्टिम थीम: राखाडी</string>
 </resources>

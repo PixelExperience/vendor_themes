@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <string name="system_overlay_dark">Tema primario del sistema: Oscuro</string>
-  <string name="systemui_overlay_dark">Tema del IU sistema: Oscuro</string>
+  <string name="systemui_overlay_dark">Tema del la interfaz gráfica del sistema: Oscuro</string>
   <string name="settings_overlay_dark">Tema principal de la configuración: Oscuro</string>
   <string name="gboard_overlay_dark">Tema primario de GBoard: Oscuro</string>
   <!-- Accent colors -->
