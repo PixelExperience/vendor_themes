@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Πρωταρχικό θέμα συστήματος: Σκοτεινό</string>
+  <string name="systemui_overlay_dark">Πρωταρχικό θέμα SystemUI: Σκοτεινό</string>
+  <string name="settings_overlay_dark">Πρωταρχικό θέμα ρυθμίσεων: Σκοτεινό</string>
+  <string name="gboard_overlay_dark">Πρωταρχικό θέμα GBoard: Σκοτεινό</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Θέμα συστήματος: Κεχριμπάρι</string>
+  <string name="accent_color_black">Θέμα συστήματος: Μαύρο</string>
+  <string name="accent_color_bluegrey">Θέμα συστήματος: Μπλε Γκρι</string>
+  <string name="accent_color_blue">Θέμα συστήματος: Μπλε</string>
+  <string name="accent_color_brown">Θέμα συστήματος: Καφέ</string>
+  <string name="accent_color_cyan">Θέμα συστήματος: Κυανό</string>
+  <string name="accent_color_deeporange">Θέμα συστήματος: Σκούρο Πορτοκαλί</string>
+  <string name="accent_color_deeppurple">Θέμα συστήματος: Σκούρο Μωβ</string>
+  <string name="accent_color_green">Θέμα συστήματος: Πράσινο</string>
+  <string name="accent_color_grey">Θέμα συστήματος: Γκρι</string>
+  <string name="accent_color_indigo">Θέμα συστήματος: Λουλακί</string>
+  <string name="accent_color_lightblue">Θέμα συστήματος: Ανοιχτό Μπλε</string>
+  <string name="accent_color_lightgreen">Θέμα συστήματος: Ανοιχτό Πράσινο</string>
+  <string name="accent_color_lime">Θέμα συστήματος: Λαχανί</string>
+  <string name="accent_color_orange">Θέμα συστήματος: Πορτοκαλί</string>
+  <string name="accent_color_pink">Θέμα συστήματος: Ρωζ</string>
+  <string name="accent_color_purple">Θέμα συστήματος: Μωβ</string>
+  <string name="accent_color_red">Θέμα συστήματος: Κόκκινο</string>
+  <string name="accent_color_teal">Θέμα συστήματος: Γαλαζοπράσινο</string>
+  <string name="accent_color_white">Θέμα συστήματος: Άσπρο</string>
+  <string name="accent_color_yellow">Θέμα συστήματος: Κίτρινο</string>
 </resources>

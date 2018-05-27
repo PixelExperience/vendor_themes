@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">시스템 주 테마: 어둡게</string>
+  <string name="systemui_overlay_dark">시스템UI 주 테마: 어둡게</string>
+  <string name="settings_overlay_dark">설정 주 테마: 어둡게</string>
+  <string name="gboard_overlay_dark">GBoard 주 테마: 어둡게</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">시스템 테마: 호박색</string>
+  <string name="accent_color_black">시스템 테마: 검정</string>
+  <string name="accent_color_bluegrey">시스템 테마: 푸른 회색</string>
+  <string name="accent_color_blue">시스템 테마: 파란색</string>
+  <string name="accent_color_brown">시스템 테마: 갈색</string>
+  <string name="accent_color_cyan">시스템 테마: 청록색</string>
+  <string name="accent_color_deeporange">시스템 테마: 진한 주황색</string>
+  <string name="accent_color_deeppurple">시스템 테마: 진한 보라색</string>
+  <string name="accent_color_green">시스템 테마: 녹색</string>
+  <string name="accent_color_grey">시스템 테마: 회색</string>
+  <string name="accent_color_indigo">시스템 테마: 남색</string>
+  <string name="accent_color_lightblue">시스템 테마: 연한 파란색</string>
+  <string name="accent_color_lightgreen">시스템 테마: 연한 녹색</string>
+  <string name="accent_color_lime">시스템 테마: 라임색</string>
+  <string name="accent_color_orange">시스템 테마: 주황색</string>
+  <string name="accent_color_pink">시스템 테마: 핑크색</string>
+  <string name="accent_color_purple">시스템 테마: 보라색</string>
+  <string name="accent_color_red">시스템 테마: 빨강색</string>
+  <string name="accent_color_teal">시스템 테마: 청록색</string>
+  <string name="accent_color_white">시스템 테마: 흰색</string>
+  <string name="accent_color_yellow">시스템 테마: 노란색</string>
 </resources>

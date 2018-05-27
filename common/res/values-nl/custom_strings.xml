@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Primair systeem thema: donker</string>
+  <string name="systemui_overlay_dark">SysteemUI primair thema: donker</string>
+  <string name="settings_overlay_dark">Instelling primair thema: donker</string>
+  <string name="gboard_overlay_dark">GBoard primair thema: donker</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Systeem thema: Amber</string>
+  <string name="accent_color_black">Systeem thema: zwart</string>
+  <string name="accent_color_bluegrey">Systeem thema: blauw grijs</string>
+  <string name="accent_color_blue">Systeem thema: blauw</string>
+  <string name="accent_color_brown">Systeem thema: bruin</string>
+  <string name="accent_color_cyan">Systeem thema: cyaan</string>
+  <string name="accent_color_deeporange">Systeem thema: diep oranje</string>
+  <string name="accent_color_deeppurple">Systeem thema: diep paars</string>
+  <string name="accent_color_green">Systeem thema: groen</string>
+  <string name="accent_color_grey">Systeem thema: grijs</string>
+  <string name="accent_color_indigo">Systeem thema: indigo</string>
+  <string name="accent_color_lightblue">Systeem thema: licht blauw</string>
+  <string name="accent_color_lightgreen">Systeem thema: licht groen</string>
+  <string name="accent_color_lime">Systeem thema: limoen groen</string>
+  <string name="accent_color_orange">Systeem thema oranje</string>
+  <string name="accent_color_pink">Systeem thema: roze</string>
+  <string name="accent_color_purple">Systeem thema: paars</string>
+  <string name="accent_color_red">Systeem thema: rood</string>
+  <string name="accent_color_teal">Systeem thema: groen blauw</string>
+  <string name="accent_color_white">Systeem thema: wit</string>
+  <string name="accent_color_yellow">Systeem thema: geel</string>
 </resources>

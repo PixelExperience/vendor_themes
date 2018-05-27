@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Hlavní motiv systému: Tmavý</string>
+  <string name="systemui_overlay_dark">Hlavní motiv SystemUI: Tmavý</string>
+  <string name="settings_overlay_dark">Hlavní motiv nastavení: Tmavý</string>
+  <string name="gboard_overlay_dark">Hlavní motiv GBoard: Tmavý</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Motiv systému: Jantarový</string>
+  <string name="accent_color_black">Motiv systému: Černý</string>
+  <string name="accent_color_bluegrey">Motiv systému: Modro šedý</string>
+  <string name="accent_color_blue">Motiv systému: Modrý</string>
+  <string name="accent_color_brown">Motiv systému: Hnědý</string>
+  <string name="accent_color_cyan">Motiv systému: Tyrkysový</string>
+  <string name="accent_color_deeporange">Motiv systému: Tmavě oranžový</string>
+  <string name="accent_color_deeppurple">Motiv systému: Tmavě fialový</string>
+  <string name="accent_color_green">Motiv systému: Zelený</string>
+  <string name="accent_color_grey">Motiv systému: Šedý</string>
+  <string name="accent_color_indigo">Motiv systému: Indigo</string>
+  <string name="accent_color_lightblue">Motiv systému: Světle modrý</string>
+  <string name="accent_color_lightgreen">Motiv systému: Světle zelený</string>
+  <string name="accent_color_lime">Motiv systému: Limetkový</string>
+  <string name="accent_color_orange">Motiv systému: Oranžový</string>
+  <string name="accent_color_pink">Motiv systému: Růžový</string>
+  <string name="accent_color_purple">Motiv systému: Fialový</string>
+  <string name="accent_color_red">Motiv systému: Červený</string>
+  <string name="accent_color_teal">Motiv systému: Modro zelený</string>
+  <string name="accent_color_white">Motiv systému: Bílý</string>
+  <string name="accent_color_yellow">Motiv systému: Žlutý</string>
 </resources>
