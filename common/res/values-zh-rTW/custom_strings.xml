@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">系統主要主題：暗色</string>
+  <string name="systemui_overlay_dark">系統UI主要主題：暗色</string>
+  <string name="settings_overlay_dark">設定主要主題：暗色</string>
+  <string name="gboard_overlay_dark">GBoard主要主題：暗色</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">系統主題：琥珀色</string>
+  <string name="accent_color_black">系統主題：黑色</string>
+  <string name="accent_color_bluegrey">系統主題：藍灰色</string>
+  <string name="accent_color_blue">系統主題：藍色</string>
+  <string name="accent_color_brown">系統主題：棕色</string>
+  <string name="accent_color_cyan">系統主題：墨綠色</string>
+  <string name="accent_color_deeporange">系統主題：深橘色</string>
+  <string name="accent_color_deeppurple">系統主題：深紫色</string>
+  <string name="accent_color_green">系統主題：綠色</string>
+  <string name="accent_color_grey">系統主題：灰色</string>
+  <string name="accent_color_indigo">系統主題：靛藍色</string>
+  <string name="accent_color_lightblue">系統主題：淺藍色</string>
+  <string name="accent_color_lightgreen">系統主題：淺綠色</string>
+  <string name="accent_color_lime">系統主題：綠黃色</string>
+  <string name="accent_color_orange">系統主題：橘色</string>
+  <string name="accent_color_pink">系統主題：粉紅色</string>
+  <string name="accent_color_purple">系統主題：紫色</string>
+  <string name="accent_color_red">系統主題：紅色</string>
+  <string name="accent_color_teal">系統主題：藍綠色</string>
+  <string name="accent_color_white">系統主題：白色</string>
+  <string name="accent_color_yellow">系統主題：黃色</string>
 </resources>

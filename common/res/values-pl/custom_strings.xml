@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Systemowy domyślny motyw: Ciemny</string>
+  <string name="systemui_overlay_dark">Domyślny motyw SystemUI: Ciemny</string>
+  <string name="settings_overlay_dark">Domyślny motyw ustawień: Ciemny</string>
+  <string name="gboard_overlay_dark">Domyślny motyw GBoarda: Ciemny</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Motyw Systemu: Bursztynowy</string>
+  <string name="accent_color_black">Motyw Systemu: Czarny</string>
+  <string name="accent_color_bluegrey">Motyw Systemu: Niebieska Szarość</string>
+  <string name="accent_color_blue">Motyw Systemu: Niebieski</string>
+  <string name="accent_color_brown">Motyw Systemu: Brązowy</string>
+  <string name="accent_color_cyan">Motyw Systemu: Cyjanowy</string>
+  <string name="accent_color_deeporange">Motyw Systemu: Głęboka Pomarańcza</string>
+  <string name="accent_color_deeppurple">Motyw Systemu: Głęboki Fiolet</string>
+  <string name="accent_color_green">Motyw Systemu: Zielony</string>
+  <string name="accent_color_grey">Motyw Systemu: Szary</string>
+  <string name="accent_color_indigo">Motyw Systemu: Indygo</string>
+  <string name="accent_color_lightblue">Motyw Systemu: Jaśniejszy Niebieski</string>
+  <string name="accent_color_lightgreen">Motyw Systemu: Jaśniejszy Zielony</string>
+  <string name="accent_color_lime">Motyw Systemu: Limonkowy</string>
+  <string name="accent_color_orange">Motyw Systemu: Pomarańczowy</string>
+  <string name="accent_color_pink">Motyw Systemu: Różowy</string>
+  <string name="accent_color_purple">Motyw Systemu: Fioletowy</string>
+  <string name="accent_color_red">Motyw Systemu: Czerwony</string>
+  <string name="accent_color_teal">Motyw Systemu: Turkusowy</string>
+  <string name="accent_color_white">Motyw Systemu: Biały</string>
+  <string name="accent_color_yellow">Motyw Systemu: Żółty</string>
 </resources>

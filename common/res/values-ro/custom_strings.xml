@@ -17,5 +17,29 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <string name="system_overlay_dark">Tema principială a sistemului: Întunecat</string>
+  <string name="systemui_overlay_dark">Tema principială a sistemului: Întunecat</string>
+  <string name="settings_overlay_dark">Tema principială a setarilor: Întunecat</string>
+  <string name="gboard_overlay_dark">Tema principială a tastaturii: Întunecat</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Tema sistemului: Chihlimbar</string>
+  <string name="accent_color_black">Tema sistemului: Negru</string>
+  <string name="accent_color_bluegrey">Tema sistemului: Gri albastrui</string>
+  <string name="accent_color_blue">Tema sistemului: Albastru</string>
+  <string name="accent_color_brown">Tema sistemului: Maro</string>
+  <string name="accent_color_cyan">Tema sistemului: Cyan</string>
+  <string name="accent_color_deeporange">Tema sistemului: Portocaliu aprins</string>
+  <string name="accent_color_deeppurple">Tema sistemului: Mov aprins</string>
+  <string name="accent_color_green">Tema sistemului: Verde</string>
+  <string name="accent_color_grey">Tema sistemului: Gri</string>
+  <string name="accent_color_indigo">Tema sistemului: Indigo</string>
+  <string name="accent_color_lightblue">Tema sistemului: Albastru deschis</string>
+  <string name="accent_color_lightgreen">Tema sistemului: Verde deschis</string>
+  <string name="accent_color_lime">Tema sistemului: Lime</string>
+  <string name="accent_color_orange">Tema sistemului: Portocaliu</string>
+  <string name="accent_color_pink">Tema sistemului: Roz</string>
+  <string name="accent_color_purple">Tema sistemului: Mov</string>
+  <string name="accent_color_red">Tema sistemului: Rosu</string>
+  <string name="accent_color_teal">Tema sistemului: Turcoaz</string>
+  <string name="accent_color_white">Tema sistemului: Alb</string>
+  <string name="accent_color_yellow">Tema sistemului: Galben</string>
 </resources>

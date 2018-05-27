@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">پوسته اولیه سیستم: تیره</string>
+  <string name="systemui_overlay_dark">پوسته اولیه ظاهر سیستم: تیره</string>
+  <string name="settings_overlay_dark">پوسته اولیه بخش تنظیمات: تیره</string>
+  <string name="gboard_overlay_dark">پوسته اولیه کیبورد GBoard: تیره</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">پوسته سیستم: کهربایی</string>
+  <string name="accent_color_black">پوسته سیستم: سیاه</string>
+  <string name="accent_color_bluegrey">پوسته سیستم: آبی خاکستری</string>
+  <string name="accent_color_blue">پوسته سیستم: آبی</string>
+  <string name="accent_color_brown">پوسته سیستم: قهوه‌ای</string>
+  <string name="accent_color_cyan">پوسته سیستم: آبی Cyan</string>
+  <string name="accent_color_deeporange">پوسته سیستم: نارنجی غلیظ</string>
+  <string name="accent_color_deeppurple">پوسته سیستم: بنفش غلیظ</string>
+  <string name="accent_color_green">پوسته سیستم: سبز</string>
+  <string name="accent_color_grey">پوسته سیستم: خاکستری</string>
+  <string name="accent_color_indigo">پوسته سیستم: نارنجی</string>
+  <string name="accent_color_lightblue">پوسته سیستم: آبی روشن</string>
+  <string name="accent_color_lightgreen">پوسته سیستم: سبز روشن</string>
+  <string name="accent_color_lime">پوسته سیستم: آهکی</string>
+  <string name="accent_color_orange">پوسته سیستم: پرتقالی</string>
+  <string name="accent_color_pink">پوسته سیستم: صورتی</string>
+  <string name="accent_color_purple">پوسته سیستم: بنفش</string>
+  <string name="accent_color_red">پوسته سیستم: قرمز</string>
+  <string name="accent_color_teal">پوسته سیستم: فیروزه‌ای</string>
+  <string name="accent_color_white">پوسته سیستم: سفید</string>
+  <string name="accent_color_yellow">پوسته سیستم: زرد</string>
 </resources>
