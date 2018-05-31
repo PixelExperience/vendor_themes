@@ -8,6 +8,7 @@
 
     <!-- Resolver -->
     <color name="resolver_list_bg">@*android:color/background_material_dark</color>
+    <color name="chooser_service_row_background_color">@*android:color/background_material_dark</color>
 
     <!-- Notification info -->
     <color name="notification_info_button_text">@*android:color/notification_default_color</color>
