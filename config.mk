@@ -1,6 +1,7 @@
 # Primary Themes
 PRODUCT_PACKAGES += \
     SystemDark \
+    SystemDarkNotifications \
     SettingsDark \
     SystemUIDark \
     GBoardDark
