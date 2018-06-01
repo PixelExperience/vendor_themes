@@ -51,9 +51,10 @@ public class ThemeAccentUtils {
 
     private static final String[] DARK_THEMES = {
         "com.android.system.theme.dark", // 0
-        "com.android.settings.theme.dark", // 1
-        "com.android.systemui.theme.dark", // 2
-        "com.android.gboard.theme.dark", // 3
+        "com.android.system.theme.dark.notifications", // 1
+        "com.android.settings.theme.dark", // 2
+        "com.android.systemui.theme.dark", // 3
+        "com.android.gboard.theme.dark", // 4
     };
 
     private static final String STOCK_DARK_THEME = "com.android.systemui.theme.dark";
@@ -101,27 +102,40 @@ public class ThemeAccentUtils {
 
     // Check for the dark system theme
     public static boolean isUsingDarkTheme(IOverlayManager om, int userId) {
+        boolean isUsing = false;
         OverlayInfo themeInfo = null;
         try {
             themeInfo = om.getOverlayInfo(DARK_THEMES[0],
                     userId);
+            isUsing = themeInfo != null && themeInfo.isEnabled();
         } catch (RemoteException e) {
             e.printStackTrace();
         }
-        return themeInfo != null && themeInfo.isEnabled();
+        try {
+            themeInfo = om.getOverlayInfo(DARK_THEMES[1],
+                    userId);
+            isUsing = isUsing || (themeInfo != null && themeInfo.isEnabled());
+        } catch (RemoteException e) {
+            e.printStackTrace();
+        }
+        return isUsing;
     }
 
-    public static void setLightDarkTheme(IOverlayManager om, int userId, boolean useDarkTheme) {
+    public static void setLightDarkTheme(IOverlayManager om, int userId, boolean useDarkTheme, boolean useDarkThemeOnNotifications) {
+        om.setEnabled("com.android.system.theme.dark",useDarkTheme ? !useDarkThemeOnNotifications : false, userId);
+        om.setEnabled("com.android.system.theme.dark.notifications",useDarkTheme ? useDarkThemeOnNotifications : false, userId);
         for (String theme : DARK_THEMES) {
-            try {
-                om.setEnabled(theme,
-                        useDarkTheme, userId);
-                unfuckBlackWhiteAccent(om, userId);
-                if (useDarkTheme) {
-                    unloadStockDarkTheme(om, userId);
+            if (!theme.equals("com.android.system.theme.dark") && !theme.equals("com.android.system.theme.dark.notifications")){
+                try {
+                    om.setEnabled(theme,
+                            useDarkTheme, userId);
+                    unfuckBlackWhiteAccent(om, userId);
+                    if (useDarkTheme) {
+                        unloadStockDarkTheme(om, userId);
+                    }
+                } catch (RemoteException e) {
+                    Log.w(TAG, "Can't change theme", e);
                 }
-            } catch (RemoteException e) {
-                Log.w(TAG, "Can't change theme", e);
             }
         }
     }
