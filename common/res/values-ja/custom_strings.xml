@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">システムの優先テーマ：ダーク</string>
+  <string name="systemui_overlay_dark">システムUIの優先テーマ：ダーク</string>
+  <string name="settings_overlay_dark">設定の優先テーマ：ダーク</string>
+  <string name="gboard_overlay_dark">GBoardの優先テーマ：ダーク</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">システムテーマ：アンバー</string>
+  <string name="accent_color_black">システムテーマ：ブラック</string>
+  <string name="accent_color_bluegrey">システムテーマ：ブルーグレー</string>
+  <string name="accent_color_blue">システムテーマ：ブルー</string>
+  <string name="accent_color_brown">システムテーマ：ブラウン</string>
+  <string name="accent_color_cyan">システムテーマ：シアン</string>
+  <string name="accent_color_deeporange">システムテーマ：ディープオレンジ</string>
+  <string name="accent_color_deeppurple">システムテーマ：ディープパープル</string>
+  <string name="accent_color_green">システムテーマ：グリーン</string>
+  <string name="accent_color_grey">システムテーマ：グレー</string>
+  <string name="accent_color_indigo">システムテーマ：インディゴ</string>
+  <string name="accent_color_lightblue">システムテーマ：ライトブルー</string>
+  <string name="accent_color_lightgreen">システムテーマ：ライトグリーン</string>
+  <string name="accent_color_lime">システムテーマ：ライム</string>
+  <string name="accent_color_orange">システムテーマ：オレンジ</string>
+  <string name="accent_color_pink">システムテーマ：ピンク</string>
+  <string name="accent_color_purple">システムテーマ：パープル</string>
+  <string name="accent_color_red">システムテーマ：レッド</string>
+  <string name="accent_color_teal">システムテーマ：ティール</string>
+  <string name="accent_color_white">システムテーマ：ホワイト</string>
+  <string name="accent_color_yellow">システムテーマ：イエロー</string>
 </resources>

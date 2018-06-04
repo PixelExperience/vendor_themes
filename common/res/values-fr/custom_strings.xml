@@ -17,5 +17,29 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <string name="system_overlay_dark">Thème principal du système : Sombre</string>
+  <string name="systemui_overlay_dark">Thème principal : Sombre</string>
+  <string name="settings_overlay_dark">Thème principal des paramètres : Sombre</string>
+  <string name="gboard_overlay_dark">Thème principal du clavier : Sombre</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Thème du système : Ambre</string>
+  <string name="accent_color_black">Thème du système : Noir</string>
+  <string name="accent_color_bluegrey">Thème du système : Bleu Gris</string>
+  <string name="accent_color_blue">Thème du système : Bleu</string>
+  <string name="accent_color_brown">Thème du système : Marron</string>
+  <string name="accent_color_cyan">Thème du système : Cyan</string>
+  <string name="accent_color_deeporange">Thème du système : Orange Foncé</string>
+  <string name="accent_color_deeppurple">Thème du système : Violet Foncé</string>
+  <string name="accent_color_green">Thème du système : Vert</string>
+  <string name="accent_color_grey">Thème du système : Gris</string>
+  <string name="accent_color_indigo">Thème du système : Indigo</string>
+  <string name="accent_color_lightblue">Thème du système : Bleu Clair</string>
+  <string name="accent_color_lightgreen">Thème du système : Vert Clair</string>
+  <string name="accent_color_lime">Thème du système : Citron</string>
+  <string name="accent_color_orange">Thème du système : Orange</string>
+  <string name="accent_color_pink">Thème du système : Rose</string>
+  <string name="accent_color_purple">Thème du système : Violet</string>
+  <string name="accent_color_red">Thème du système : Rouge</string>
+  <string name="accent_color_teal">Thème du système : Bleu Canard</string>
+  <string name="accent_color_white">Thème du système : Blanc</string>
+  <string name="accent_color_yellow">Thème du système : Jaune</string>
 </resources>

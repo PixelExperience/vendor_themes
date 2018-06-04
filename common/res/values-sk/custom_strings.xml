@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Hlavná téma systému: Tmavá</string>
+  <string name="systemui_overlay_dark">Hlavná téma SystemUI: Tmavá</string>
+  <string name="settings_overlay_dark">Hlavná téma Nastavení: Tmavá</string>
+  <string name="gboard_overlay_dark">Hlavná téma GBoard: Tmavá</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Téma systému: Jantárová</string>
+  <string name="accent_color_black">Téma systému: Čierna</string>
+  <string name="accent_color_bluegrey">Téma systému: Modro-šedá</string>
+  <string name="accent_color_blue">Téma systému: Modrá</string>
+  <string name="accent_color_brown">Téma systému: Hnedá</string>
+  <string name="accent_color_cyan">Téma systému: Tyrkysová</string>
+  <string name="accent_color_deeporange">Téma systému: Tmavo-oranžová</string>
+  <string name="accent_color_deeppurple">Téma systému: Tmavo-fialová</string>
+  <string name="accent_color_green">Téma systému: Zelená</string>
+  <string name="accent_color_grey">Téma systému: Šedá</string>
+  <string name="accent_color_indigo">Téma systému: Tmavo-modrá</string>
+  <string name="accent_color_lightblue">Téma systému: Bledo-modrá</string>
+  <string name="accent_color_lightgreen">Téma systému: Bledo-zelená</string>
+  <string name="accent_color_lime">Téma systému: Limetková</string>
+  <string name="accent_color_orange">Téma systému: Oranžová</string>
+  <string name="accent_color_pink">Téma systému: Ružová</string>
+  <string name="accent_color_purple">Téma systému: Fialová</string>
+  <string name="accent_color_red">Téma systému: Červená</string>
+  <string name="accent_color_teal">Téma systému: Modro-zelená</string>
+  <string name="accent_color_white">Téma systému: Biela</string>
+  <string name="accent_color_yellow">Téma systému: Žltá</string>
 </resources>
