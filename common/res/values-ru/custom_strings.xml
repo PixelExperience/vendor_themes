@@ -17,9 +17,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <string name="system_overlay_dark">Основная системная тема: Темная</string>
-  <string name="systemui_overlay_dark">Основная системная тема: Темная</string>
-  <string name="settings_overlay_dark">Основная системная тема: Темная</string>
-  <string name="gboard_overlay_dark">Основная тема клавиатуры: Тёмная</string>
+  <string name="systemui_overlay_dark">Тема SystemUI: Темная</string>
+  <string name="settings_overlay_dark">Основная тема настроек: Темная</string>
+  <string name="gboard_overlay_dark">Основная тема GBoard: Темная</string>
   <!-- Accent colors -->
   <string name="accent_color_amber">Системная тема: Янтарный</string>
   <string name="accent_color_black">Системная тема: Чёрный</string>
@@ -39,7 +39,7 @@
   <string name="accent_color_pink">Системная тема: Розовый</string>
   <string name="accent_color_purple">Системная тема: Фиолетовый</string>
   <string name="accent_color_red">Системная тема: Красный</string>
-  <string name="accent_color_teal">Системная тема: Зеленовато-синий</string>
+  <string name="accent_color_teal">Системная тема: Бирюзовый</string>
   <string name="accent_color_white">Системная тема: Белый</string>
   <string name="accent_color_yellow">Системная тема: Желтый</string>
 </resources>
