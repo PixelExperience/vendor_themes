@@ -16,30 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
-  <string name="system_overlay_dark">Основная системная тема: Темная</string>
-  <string name="systemui_overlay_dark">Тема SystemUI: Темная</string>
-  <string name="settings_overlay_dark">Основная тема настроек: Темная</string>
-  <string name="gboard_overlay_dark">Основная тема GBoard: Темная</string>
+  <string name="system_overlay_dark">Основная системная тема: тёмная</string>
+  <string name="systemui_overlay_dark">Основная тема SystemUI: тёмная</string>
+  <string name="settings_overlay_dark">Основная тема настроек: тёмная</string>
+  <string name="gboard_overlay_dark">Основная тема GBoard: тёмная</string>
   <!-- Accent colors -->
-  <string name="accent_color_amber">Системная тема: Янтарный</string>
-  <string name="accent_color_black">Системная тема: Чёрный</string>
-  <string name="accent_color_bluegrey">Системная тема: Серо-голубой</string>
-  <string name="accent_color_blue">Системная тема: Синий</string>
-  <string name="accent_color_brown">Системная тема: Коричневый</string>
-  <string name="accent_color_cyan">Системная тема: Зеленовато-синий</string>
-  <string name="accent_color_deeporange">Системная тема: Насыщенный оранжевый</string>
-  <string name="accent_color_deeppurple">Системная тема: Темно-фиолетовый</string>
-  <string name="accent_color_green">Системная тема: Зелёный</string>
-  <string name="accent_color_grey">Системная тема: Серый</string>
-  <string name="accent_color_indigo">Системная тема: Индиго</string>
-  <string name="accent_color_lightblue">Системная тема: Светло-голубой</string>
-  <string name="accent_color_lightgreen">Системная тема: Светло-зеленый</string>
-  <string name="accent_color_lime">Системная тема: Лайм</string>
-  <string name="accent_color_orange">Системная тема: Оранжевый</string>
-  <string name="accent_color_pink">Системная тема: Розовый</string>
-  <string name="accent_color_purple">Системная тема: Фиолетовый</string>
-  <string name="accent_color_red">Системная тема: Красный</string>
-  <string name="accent_color_teal">Системная тема: Бирюзовый</string>
-  <string name="accent_color_white">Системная тема: Белый</string>
-  <string name="accent_color_yellow">Системная тема: Желтый</string>
+  <string name="accent_color_amber">Системная тема: янтарная</string>
+  <string name="accent_color_black">Системная тема: чёрный</string>
+  <string name="accent_color_bluegrey">Системная тема: серо-голубая</string>
+  <string name="accent_color_blue">Системная тема: синяя</string>
+  <string name="accent_color_brown">Системная тема: коричневая</string>
+  <string name="accent_color_cyan">Системная тема: зеленовато-синяя</string>
+  <string name="accent_color_deeporange">Системная тема: тёмно-оранжевая</string>
+  <string name="accent_color_deeppurple">Системная тема: тёмно-фиолетовая</string>
+  <string name="accent_color_green">Системная тема: зелёная</string>
+  <string name="accent_color_grey">Системная тема: серая</string>
+  <string name="accent_color_indigo">Системная тема: индиго</string>
+  <string name="accent_color_lightblue">Системная тема: светло-голубая</string>
+  <string name="accent_color_lightgreen">Системная тема: светло-зелёная</string>
+  <string name="accent_color_lime">Системная тема: лайм</string>
+  <string name="accent_color_orange">Системная тема: оранжевая</string>
+  <string name="accent_color_pink">Системная тема: розовая</string>
+  <string name="accent_color_purple">Системная тема: фиолетовая</string>
+  <string name="accent_color_red">Системная тема: красная</string>
+  <string name="accent_color_teal">Системная тема: бирюзовая</string>
+  <string name="accent_color_white">Системная тема: белая</string>
+  <string name="accent_color_yellow">Системная тема: жёлтая</string>
 </resources>

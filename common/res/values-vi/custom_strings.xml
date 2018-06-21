@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Chủ đề chính của hệ thống: Tối</string>
+  <string name="systemui_overlay_dark">Chủ đề chính của giao diện hệ thống: Tối</string>
+  <string name="settings_overlay_dark">Chủ đề chính của cài đặt hệ thống: Tối</string>
+  <string name="gboard_overlay_dark">Chủ đề chính của bàn phím: Tối</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Chủ đề hệ thống: Hổ phách</string>
+  <string name="accent_color_black">Chủ đề hệ thống: Đen</string>
+  <string name="accent_color_bluegrey">Chủ đề hệ thống: Xanh xám</string>
+  <string name="accent_color_blue">Chủ đề hệ thống: Xanh</string>
+  <string name="accent_color_brown">Chủ đề hệ thống: Nâu</string>
+  <string name="accent_color_cyan">Chủ đề hệ thống: Xanh lơ</string>
+  <string name="accent_color_deeporange">Chủ đề hệ thống: Cam sẫm</string>
+  <string name="accent_color_deeppurple">Chủ đề hệ thống: Tím sẫm</string>
+  <string name="accent_color_green">Chủ đề hệ thống: Xanh lá</string>
+  <string name="accent_color_grey">Chủ đề hệ thống: Xám</string>
+  <string name="accent_color_indigo">Chủ đề hệ thống: Xanh đen</string>
+  <string name="accent_color_lightblue">Chủ đề hệ thống: Xanh nhạt</string>
+  <string name="accent_color_lightgreen">Chủ đề hệ thống: Xanh lá nhạt</string>
+  <string name="accent_color_lime">Chủ đề hệ thống: Vàng chanh</string>
+  <string name="accent_color_orange">Chủ đề hệ thống: Cam</string>
+  <string name="accent_color_pink">Chủ đề hệ thống: Hồng</string>
+  <string name="accent_color_purple">Chủ đề hệ thống: Tím</string>
+  <string name="accent_color_red">Chủ đề hệ thống: Đỏ</string>
+  <string name="accent_color_teal">Chủ đề hệ thống: Xanh sẫm</string>
+  <string name="accent_color_white">Chủ đề hệ thống: Trắng</string>
+  <string name="accent_color_yellow">Chủ đề hệ thống: Vàng</string>
 </resources>

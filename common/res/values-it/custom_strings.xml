@@ -18,7 +18,7 @@
   <!-- Primary colors -->
   <string name="system_overlay_dark">Tema principale di sistema: Scuro</string>
   <string name="systemui_overlay_dark">Tema principale interfaccia utente: Scuro</string>
-  <string name="settings_overlay_dark">Impostazioni tema principale: Scuro</string>
+  <string name="settings_overlay_dark">Tema principale impostazioni: Scuro</string>
   <string name="gboard_overlay_dark">Tema principale GBoard: Scuro</string>
   <!-- Accent colors -->
   <string name="accent_color_amber">Tema di sistema: Ambra</string>
