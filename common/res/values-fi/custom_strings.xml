@@ -16,5 +16,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Oletus teema: Tumma</string>
+  <string name="systemui_overlay_dark">Käyttö teema: Tumma</string>
+  <string name="settings_overlay_dark">Asetusten oletus teema: Tumma</string>
+  <string name="gboard_overlay_dark">GBoard oletus teema: Tumma</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Systeemi teema: Oranssi</string>
+  <string name="accent_color_black">Systeemi teema: Musta</string>
+  <string name="accent_color_bluegrey">Systeemi teema: Musta Harmaa</string>
+  <string name="accent_color_blue">Systeemi teema: Sininen</string>
+  <string name="accent_color_brown">Systeemi teema: Ruskea</string>
+  <string name="accent_color_cyan">Systeemi teema: syaani</string>
+  <string name="accent_color_deeporange">Systeemi teema: Syvän Oranssi</string>
 </resources>

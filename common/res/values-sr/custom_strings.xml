@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <string name="system_overlay_dark">Примарна тема система: Тамна</string>
-  <string name="systemui_overlay_dark">Примарна тема SystemUI-а: Тамна</string>
+  <string name="systemui_overlay_dark">Примарна тема SystemКорисничког интерфејса: Тамна</string>
   <string name="settings_overlay_dark">Примарна тема за Подешавања: Тамна</string>
   <string name="gboard_overlay_dark">Примарна тема GBoard-а: Тамна</string>
   <!-- Accent colors -->
