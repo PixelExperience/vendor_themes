@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">ธีมหลักระบบ: มืด</string>
+  <string name="systemui_overlay_dark">ธีมระบบ UI หลัก: มืด</string>
+  <string name="settings_overlay_dark">ตั้งค่าธีมหลัก: มืด</string>
+  <string name="gboard_overlay_dark">ธีมหลัก GBoard: มืด</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">ธีมระบบ: เหลืองอำพัน</string>
+  <string name="accent_color_black">ธีมระบบ: ดำ</string>
+  <string name="accent_color_bluegrey">ธีมระบบ: น้ำเงิน เทา</string>
+  <string name="accent_color_blue">ธีมระบบ: น้ำเงิน</string>
+  <string name="accent_color_brown">ธีมระบบ: น้ำตาล</string>
+  <string name="accent_color_cyan">ธีมระบบ: ฟ้า</string>
+  <string name="accent_color_deeporange">ธีมระบบ: ส้มเข้ม</string>
+  <string name="accent_color_deeppurple">ธีมระบบ: ม่วงเข้ม</string>
+  <string name="accent_color_green">ธีมระบบ: เขียว</string>
+  <string name="accent_color_grey">ธีมระบบ: เทา</string>
+  <string name="accent_color_indigo">ธีมระบบ: สีคราม</string>
+  <string name="accent_color_lightblue">ธีมระบบ: น้ำเงินสว่าง</string>
+  <string name="accent_color_lightgreen">ธีมระบบ: เขียวสว่าง</string>
+  <string name="accent_color_lime">ธีมระบบ: สีมะนาว</string>
+  <string name="accent_color_orange">ธีมระบบ: ส้ม</string>
+  <string name="accent_color_pink">ธีมระบบ: ชมพู</string>
+  <string name="accent_color_purple">ธีมระบบ: ม่วง</string>
+  <string name="accent_color_red">ธีมระบบ: แดง</string>
+  <string name="accent_color_teal">ธีมระบบ: เขียวนกเป็ดน้ำ</string>
+  <string name="accent_color_white">ธีมระบบ: ขาว</string>
+  <string name="accent_color_yellow">ธีมระบบ: เหลือง</string>
 </resources>

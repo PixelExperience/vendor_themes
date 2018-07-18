@@ -17,4 +17,22 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <!-- Accent colors -->
+  <string name="accent_color_black">Sistēmas motīvs: Melns</string>
+  <string name="accent_color_bluegrey">Sistēmas motīvs: Zils Pelēks</string>
+  <string name="accent_color_blue">Sistēmas motīvs: Zils</string>
+  <string name="accent_color_brown">Sistēmas motīvs: Brūns</string>
+  <string name="accent_color_cyan">Sistēmas motīvs: Ciāna</string>
+  <string name="accent_color_deeporange">Sistēmas motīvs: Tumši orandžs</string>
+  <string name="accent_color_deeppurple">Sistēmas motīvs: Tumši Violēts</string>
+  <string name="accent_color_green">Sistēmas motīvs: Zaļš</string>
+  <string name="accent_color_grey">Sistēmas motīvs: Pelēks</string>
+  <string name="accent_color_lightblue">Sistēmas motīvs: Gaiši zils</string>
+  <string name="accent_color_lightgreen">Sistēmas motīvs: Gaiši Zaļš</string>
+  <string name="accent_color_lime">Sistēmas motīvs: Laims</string>
+  <string name="accent_color_orange">Sistēmas motīvs: Orandžs</string>
+  <string name="accent_color_pink">Sistēmas motīvs: Rozā</string>
+  <string name="accent_color_purple">Sistēmas motīvs: Violēts</string>
+  <string name="accent_color_red">Sistēmas motīvs: Sarkans</string>
+  <string name="accent_color_white">Sistēmas motīvs: Balts</string>
+  <string name="accent_color_yellow">Sistēmas motīvs: Dzeltens</string>
 </resources>
