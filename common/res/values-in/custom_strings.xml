@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
-  <string name="system_overlay_dark">Tema utama sistem: gelap</string>
+  <string name="system_overlay_dark">Tema utama Sistem: Gelap</string>
   <string name="systemui_overlay_dark">Tema utama Sistem UI: Gelap</string>
   <string name="settings_overlay_dark">Pengaturan tema utama: gelap</string>
   <string name="gboard_overlay_dark">Tema utama Gboard: gelap</string>
