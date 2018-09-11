@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">ערכת הנושא העיקרית של המערכת: כהה</string>
+  <string name="systemui_overlay_dark">ערכת הנושא העיקרית של ממשק המערכת: כהה</string>
+  <string name="settings_overlay_dark">ערכת הנושא העיקרית של ההגדרות: כהה</string>
+  <string name="gboard_overlay_dark">ערכת הנושא העיקרית של מקלדת גוגל: כהה</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">ערכת נושא מערכת: ענבר</string>
+  <string name="accent_color_black">ערכת נושא מערכת: שחור</string>
+  <string name="accent_color_bluegrey">ערכת נושא מערכת: כחול אפור</string>
+  <string name="accent_color_blue">ערכת נושא מערכת: כחול</string>
+  <string name="accent_color_brown">ערכת נושא מערכת: חום</string>
+  <string name="accent_color_cyan">ערכת נושא מערכת: כחול-ירוק</string>
+  <string name="accent_color_deeporange">ערכת נושא מערכת: כתום כהה</string>
+  <string name="accent_color_deeppurple">ערכת נושא מערכת: סגול כהה</string>
+  <string name="accent_color_green">ערכת נושא מערכת: ירוק</string>
+  <string name="accent_color_grey">ערכת נושא מערכת: אפור</string>
+  <string name="accent_color_indigo">ערכת נושא מערכת: כחול ככה</string>
+  <string name="accent_color_lightblue">ערכת נושא מערכת: כחול בהיר</string>
+  <string name="accent_color_lightgreen">ערכת נושא מערכת: ירוק בהיר</string>
+  <string name="accent_color_lime">ערכת נושא מערכת: ירוק ליים</string>
+  <string name="accent_color_orange">ערכת נושא מערכת: כתום</string>
+  <string name="accent_color_pink">ערכת נושא מערכת: וורד</string>
+  <string name="accent_color_purple">ערכת נושא מערכת: סגול</string>
+  <string name="accent_color_red">ערכת נושא מערכת: אדום</string>
+  <string name="accent_color_teal">ערכת נושא מערכת: ירוק-כחול</string>
+  <string name="accent_color_white">ערכת נושא מערכת: לבן</string>
+  <string name="accent_color_yellow">ערכת נושא מערכת: צהוב</string>
 </resources>

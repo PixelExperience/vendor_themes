@@ -28,4 +28,18 @@
   <string name="accent_color_brown">Systeemi teema: Ruskea</string>
   <string name="accent_color_cyan">Systeemi teema: syaani</string>
   <string name="accent_color_deeporange">Systeemi teema: Syvän Oranssi</string>
+  <string name="accent_color_deeppurple">Systeemi teema: Syvän Oranssi</string>
+  <string name="accent_color_green">Systeemi teema: Vihreä</string>
+  <string name="accent_color_grey">Systeemi teema: Harmaa</string>
+  <string name="accent_color_indigo">Systeemi teema: Indigonsininen</string>
+  <string name="accent_color_lightblue">Systeemi teema: Vaalean Sininen</string>
+  <string name="accent_color_lightgreen">Systeemi teema: Vaalean Vihreä</string>
+  <string name="accent_color_lime">Systeemi teema: Lime</string>
+  <string name="accent_color_orange">Systeemi teema: Oranssi</string>
+  <string name="accent_color_pink">Systeemi teema: Vaaleanpunainen</string>
+  <string name="accent_color_purple">Systeemi teema: Violetti</string>
+  <string name="accent_color_red">Systeemi teema: Punainen</string>
+  <string name="accent_color_teal">Systeemi teema: sinivihreä</string>
+  <string name="accent_color_white">Systeemi teema: Valkoinen</string>
+  <string name="accent_color_yellow">Systeemi teema: Keltainen</string>
 </resources>

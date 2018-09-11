@@ -16,5 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">प्रारंभिक प्रणाली विषय: गहरे रंग का</string>
+  <string name="systemui_overlay_dark">प्रारंभिक प्रणाली दिखाव विषय: गहरे रंग का</string>
   <!-- Accent colors -->
 </resources>

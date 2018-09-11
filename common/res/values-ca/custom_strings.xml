@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Tema primari del sistema: Obscur</string>
+  <string name="systemui_overlay_dark">Tema primari de SystemUI: Obscur</string>
+  <string name="settings_overlay_dark">Tema primari de la configuració: Obscur</string>
+  <string name="gboard_overlay_dark">Tema Primari GBoard: Obscur</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Tema del sistema: Àmbar</string>
+  <string name="accent_color_black">Tema del sistema: Negre</string>
+  <string name="accent_color_bluegrey">Tema del Sistema: Gris Blavós</string>
+  <string name="accent_color_blue">Tema del Sistema: Blau</string>
+  <string name="accent_color_brown">Tema del Sistema: Marró</string>
+  <string name="accent_color_cyan">Tema del Sistema: Cyan</string>
+  <string name="accent_color_deeporange">Tema del Sistema: Taronja Obscur</string>
+  <string name="accent_color_deeppurple">Tema del Sistema: Morat Obscur</string>
+  <string name="accent_color_green">Tema del Sistema: Verd</string>
+  <string name="accent_color_grey">Tema del Sistema: Gris</string>
+  <string name="accent_color_indigo">Tema del Sistema: Indi</string>
+  <string name="accent_color_lightblue">Tema del Sistema: Blau Clar</string>
+  <string name="accent_color_lightgreen">Tema del Sistema: Verd Clar</string>
+  <string name="accent_color_lime">Tema del Sistema: Llima</string>
+  <string name="accent_color_orange">Tema del Sistema: Taronja</string>
+  <string name="accent_color_pink">Tema del Sistema: Rosa</string>
+  <string name="accent_color_purple">Tema del Sistema: Morat</string>
+  <string name="accent_color_red">Tema del Sistema: Roig</string>
+  <string name="accent_color_teal">Tema del Sistema: Turquesa</string>
+  <string name="accent_color_white">Tema del Sistema: Blanc</string>
+  <string name="accent_color_yellow">Tema del Sistema: Groc</string>
 </resources>

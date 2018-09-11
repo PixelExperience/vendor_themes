@@ -17,4 +17,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <!-- Accent colors -->
+  <string name="accent_color_amber">System theme: Amber</string>
 </resources>

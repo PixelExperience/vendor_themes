@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Glavna tema sistema: Temna</string>
+  <string name="systemui_overlay_dark">Glavna tema SystemUI: Temna</string>
+  <string name="settings_overlay_dark">Glavna tema nastavitev: Temna</string>
+  <string name="gboard_overlay_dark">Glavna tema GBoard: Temna</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Tema sistema: Jantar</string>
+  <string name="accent_color_black">Tema sistema: Črna</string>
+  <string name="accent_color_bluegrey">Tema sistema: Modro siva</string>
+  <string name="accent_color_blue">Tema sistema: Modra</string>
+  <string name="accent_color_brown">Tema sistema: Rjava</string>
+  <string name="accent_color_cyan">Tema sistema: Cian</string>
+  <string name="accent_color_deeporange">Tema sistema: Temno oranžna</string>
+  <string name="accent_color_deeppurple">Tema sistema: Temno vijolična</string>
+  <string name="accent_color_green">Tema sistema: Zelena</string>
+  <string name="accent_color_grey">Tema sistema: Siva</string>
+  <string name="accent_color_indigo">Tema sistema: Indigo</string>
+  <string name="accent_color_lightblue">Tema sistema: Svetlo modra</string>
+  <string name="accent_color_lightgreen">Tema sistema: Svetlo zelena</string>
+  <string name="accent_color_lime">Tema sistema: Limeta</string>
+  <string name="accent_color_orange">Tema sistema: Oranžna</string>
+  <string name="accent_color_pink">Tema sistema: Roza</string>
+  <string name="accent_color_purple">Tema sistema: Vijolična</string>
+  <string name="accent_color_red">Tema sistema: Rdeča</string>
+  <string name="accent_color_teal">Tema sistema: Zeleno modra</string>
+  <string name="accent_color_white">Tema sistema: Bela</string>
+  <string name="accent_color_yellow">Tema sistema: Rumena</string>
 </resources>

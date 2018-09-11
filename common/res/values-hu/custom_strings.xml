@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Rendszer téma: Fekete</string>
+  <string name="systemui_overlay_dark">RendszerUI téma: Fekete</string>
+  <string name="settings_overlay_dark">Beállítások téma: Fekete</string>
+  <string name="gboard_overlay_dark">GBoard téma: Fekete</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Rendszer téma: Borostyán</string>
+  <string name="accent_color_black">Rendszer téma: Fekete</string>
+  <string name="accent_color_bluegrey">Rendszer téma: Kék-szürke</string>
+  <string name="accent_color_blue">Rendszer téma: Kék</string>
+  <string name="accent_color_brown">Rendszer téma: Barna</string>
+  <string name="accent_color_cyan">Rendszer téma: Cián</string>
+  <string name="accent_color_deeporange">Rendszer téma: Mély narancssárga</string>
+  <string name="accent_color_deeppurple">Rendszer téma: Mély lila</string>
+  <string name="accent_color_green">Rendszer téma: Zöld</string>
+  <string name="accent_color_grey">Rendszer téma: Szürke</string>
+  <string name="accent_color_indigo">Rendszer téma: Indigó</string>
+  <string name="accent_color_lightblue">Rendszer téma: Világoskék</string>
+  <string name="accent_color_lightgreen">Rendszer téma: Világoszöld</string>
+  <string name="accent_color_lime">Rendszer téma: Lime</string>
+  <string name="accent_color_orange">Rendszer téma: Narancssárga</string>
+  <string name="accent_color_pink">Rendszer téma: Rózsaszín</string>
+  <string name="accent_color_purple">Rendszer téma: Lila</string>
+  <string name="accent_color_red">Rendszer téma: Piros</string>
+  <string name="accent_color_teal">Rendszer téma: Zöldeskék</string>
+  <string name="accent_color_white">Rendszer téma: Fehér</string>
+  <string name="accent_color_yellow">Rendszer téma: Citromsárga</string>
 </resources>

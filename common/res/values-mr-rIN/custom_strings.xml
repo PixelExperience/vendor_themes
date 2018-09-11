@@ -26,4 +26,8 @@
   <string name="accent_color_deeppurple">सिस्टिम थीम: जांभळा</string>
   <string name="accent_color_green">सिस्टिम थीम: हिरवा</string>
   <string name="accent_color_grey">सिस्टिम थीम: राखाडी</string>
+  <string name="accent_color_orange">सिस्टिम थीम: नारिंगी</string>
+  <string name="accent_color_purple">सिस्टिम थीम: जांभळा</string>
+  <string name="accent_color_red">सिस्टिम थीम: लाल</string>
+  <string name="accent_color_yellow">सिस्टिम थीम: पिवळा</string>
 </resources>

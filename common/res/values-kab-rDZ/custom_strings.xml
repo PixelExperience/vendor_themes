@@ -16,5 +16,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Asentel amezwaru n unagraw: Tebrek</string>
+  <string name="systemui_overlay_dark">Asentel amezwaru: Tebrek</string>
+  <string name="settings_overlay_dark">Asentel amezwaru n iɣewwaṛen: Tebrek</string>
+  <string name="gboard_overlay_dark">Asentel amezwaru n unasiw: Tebrek</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Asentel n unagraw: Kahirban</string>
+  <string name="accent_color_black">Asentel n unagraw: Aberkan</string>
+  <string name="accent_color_bluegrey">Asentel n unagraw: Azegzaw Zunɣid</string>
+  <string name="accent_color_blue">Asentel n unagraw: Azegzaw</string>
+  <string name="accent_color_brown">Asentel n unagraw: Aqehwi </string>
+  <string name="accent_color_cyan">Asentel n unagraw: Aẓirwal</string>
+  <string name="accent_color_deeporange">Asentel n unagraw: Aččini Aqesḥan</string>
+  <string name="accent_color_lime">Asentel n unagraw: Taqarest  </string>
+  <string name="accent_color_orange">Asentel n unagraw: Aččini </string>
+  <string name="accent_color_red">Asentel n unagraw: Azeggaɣ </string>
+  <string name="accent_color_white">Asentel n unagraw: Amellal </string>
+  <string name="accent_color_yellow">Asentel n unagraw: Awṛaɣ </string>
 </resources>
