@@ -1,3 +1,4 @@
 PRODUCT_PACKAGES += \
     SettingsDark \
-    SystemDark
+    SystemDark \
+    SystemUIDark
