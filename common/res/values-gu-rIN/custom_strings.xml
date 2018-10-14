@@ -17,9 +17,29 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
   <string name="system_overlay_dark">સિસ્ટમ પ્રાથમિક થીમ: ડાર્ક</string>
+  <string name="systemui_overlay_dark">સિસ્ટમ પ્રાથમિક થીમ: ડાર્ક</string>
+  <string name="settings_overlay_dark">સેટિંગ્સ પ્રાથમિક થીમ: ડાર્ક</string>
+  <string name="gboard_overlay_dark">જી બોર્ડ પ્રાથમિક થીમ: ડાર્ક</string>
   <!-- Accent colors -->
   <string name="accent_color_amber">સિસ્ટમ થીમ: અંબર</string>
+  <string name="accent_color_black">સિસ્ટમ થીમ: કાળો</string>
   <string name="accent_color_bluegrey">સિસ્ટમ થીમ: બ્લુ ગ્રે</string>
+  <string name="accent_color_blue">સિસ્ટમ થીમ: વાદળી</string>
+  <string name="accent_color_brown">સિસ્ટમ થીમ: બ્રાઉન</string>
+  <string name="accent_color_cyan">સિસ્ટમ થીમ: સાયન</string>
   <string name="accent_color_deeporange">સિસ્ટમ થીમ: ડીપ ઓરેન્જ</string>
+  <string name="accent_color_deeppurple">સિસ્ટમ થીમ: ડીપ જાંબલી</string>
+  <string name="accent_color_green">સિસ્ટમ થીમ: લીલા</string>
+  <string name="accent_color_grey">સિસ્ટમ થીમ: ભૂખરા</string>
+  <string name="accent_color_indigo">સિસ્ટમ થીમ: ઓરેન્જ</string>
   <string name="accent_color_lightblue">સિસ્ટમ થીમ: લાઇટ બ્લુ</string>
+  <string name="accent_color_lightgreen">સિસ્ટમ થીમ: લાઇટ લીલા</string>
+  <string name="accent_color_lime">સિસ્ટમ થીમ: ચૂનો</string>
+  <string name="accent_color_orange">સિસ્ટમ થીમ: ઓરેન્જ</string>
+  <string name="accent_color_pink">સિસ્ટમ થીમ: ગુલાબી</string>
+  <string name="accent_color_purple">સિસ્ટમ થીમ: જાંબલી</string>
+  <string name="accent_color_red">સિસ્ટમ થીમ: લાલ</string>
+  <string name="accent_color_teal">સિસ્ટમ થીમ: ટીલ</string>
+  <string name="accent_color_white">સિસ્ટમ થીમ: સફેદ</string>
+  <string name="accent_color_yellow">સિસ્ટમ થીમ: પીળો</string>
 </resources>

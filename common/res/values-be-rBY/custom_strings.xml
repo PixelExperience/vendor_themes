@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Асноўная тэма сістэмы: Цёмная</string>
+  <string name="systemui_overlay_dark">Асноўная тэма інтэрфейса: Цёмная</string>
+  <string name="settings_overlay_dark">Асноўная тэма налад: Цёмная</string>
+  <string name="gboard_overlay_dark">Асноўная тэма GBoard: Цёмная</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Тэма сістэмы: Бурштын</string>
+  <string name="accent_color_black">Тэма сістэмы: Чорны</string>
+  <string name="accent_color_bluegrey">Тэма сістэмы: Цёмна-сіні</string>
+  <string name="accent_color_blue">Тэма сістэмы: Сіні</string>
+  <string name="accent_color_brown">Тэма сістэмы: Каштан</string>
+  <string name="accent_color_cyan">Тэма сістэмы: Бірузовы</string>
+  <string name="accent_color_deeporange">Тэма сістэмы: Глыбокі аранжавы</string>
+  <string name="accent_color_deeppurple">Тэма сістэмы: Глыбокі фіялетавы</string>
+  <string name="accent_color_green">Тэма сістэмы: Зялёны</string>
+  <string name="accent_color_grey">Тэма сістэмы: Шэры</string>
+  <string name="accent_color_indigo">Тэма сістэмы: Індыга</string>
+  <string name="accent_color_lightblue">Тэма сістэмы: Блакітны</string>
+  <string name="accent_color_lightgreen">Тэма сістэмы: Светла-зялёны</string>
+  <string name="accent_color_lime">Тэма сістэмы: Лайм</string>
+  <string name="accent_color_orange">Тэма сістэмы: Аранжавы</string>
+  <string name="accent_color_pink">Тэма сістэмы: Ружовы</string>
+  <string name="accent_color_purple">Тэма сістэмы: Фіялетавы</string>
+  <string name="accent_color_red">Тэма сістэмы: Чырвоны</string>
+  <string name="accent_color_teal">Тэма сістэмы: Цёмна-бірузовы</string>
+  <string name="accent_color_white">Тэма сістэмы: Белы</string>
+  <string name="accent_color_yellow">Тэма сістэмы: Жоўты</string>
 </resources>

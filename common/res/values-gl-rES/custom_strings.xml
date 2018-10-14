@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Tema primario do sistema: Escuro</string>
+  <string name="systemui_overlay_dark">Tema primario da interface gráfica do sistema: Escuro</string>
+  <string name="settings_overlay_dark">Configuración do Tema primario: Escuro</string>
+  <string name="gboard_overlay_dark">Tema primario do GBoard: Escuro</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Tema do sistema: Ámbar</string>
+  <string name="accent_color_black">Tema do sistema: Negro</string>
+  <string name="accent_color_bluegrey">Tema do sistema: Gris Azul</string>
+  <string name="accent_color_blue">Tema do sistema: Azul</string>
+  <string name="accent_color_brown">Tema do sistema: Marrón</string>
+  <string name="accent_color_cyan">Tema do sistema: Cyan</string>
+  <string name="accent_color_deeporange">Tema do sistema: Laranxa Profundo</string>
+  <string name="accent_color_deeppurple">Tema do sistema: Púrpura Oscuro</string>
+  <string name="accent_color_green">Tema do sistema: Verde</string>
+  <string name="accent_color_grey">Tema do sistema: Gris</string>
+  <string name="accent_color_indigo">Tema do sistema: Índigo</string>
+  <string name="accent_color_lightblue">Tema do sistema: Azul Claro</string>
+  <string name="accent_color_lightgreen">Tema do sistema: Verde Claro</string>
+  <string name="accent_color_lime">Tema do sistema: Lima</string>
+  <string name="accent_color_orange">Tema do sistema: Laranxa</string>
+  <string name="accent_color_pink">Tema do sistema: Rosado</string>
+  <string name="accent_color_purple">Tema do sistema: Púrpura</string>
+  <string name="accent_color_red">Tema do sistema: Vermello</string>
+  <string name="accent_color_teal">Tema do sistema: Teal</string>
+  <string name="accent_color_white">Tema do sistema: Branco</string>
+  <string name="accent_color_yellow">Tema do sistema: Amarelo</string>
 </resources>

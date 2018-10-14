@@ -16,5 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">Sistemos pagrindinė tema: tamsi</string>
+  <string name="systemui_overlay_dark">Systemos (vartotojo sąsaja) pagrindinė tema: Tamsi</string>
+  <string name="settings_overlay_dark">Nustatymų pagrindinė tema: tamsi</string>
+  <string name="gboard_overlay_dark">GBoard pagrindinė tema: tamsi</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">Sistemos tema: Gintarinė</string>
+  <string name="accent_color_black">Sistemos tema: Juoda</string>
+  <string name="accent_color_bluegrey">Sistemos tema: mėlynai pilka</string>
+  <string name="accent_color_blue">Sistemos tema: Mėlyna</string>
+  <string name="accent_color_brown">Sistemos tema: ruda</string>
+  <string name="accent_color_cyan">Sistemos tema: Žydra</string>
+  <string name="accent_color_deeporange">Sistemos tema: Tamsiai oranžinė</string>
+  <string name="accent_color_deeppurple">Sistemos tema: Tamsiai violetinė</string>
+  <string name="accent_color_green">Sistemos tema: Žalia</string>
+  <string name="accent_color_grey">Sistemos tema: pilka</string>
+  <string name="accent_color_indigo">Sistemos tema: Indigo</string>
+  <string name="accent_color_lightblue">Sistemos tema: šviesiai mėlyna</string>
+  <string name="accent_color_lightgreen">Sistemos tema: šviesiai žalia</string>
+  <string name="accent_color_lime">Sistemos tema: Lime</string>
+  <string name="accent_color_orange">Sistemos tema: oranžinė</string>
+  <string name="accent_color_pink">Sistemos tema: Rožinė</string>
+  <string name="accent_color_purple">Sistemos tema: Purpurinė</string>
+  <string name="accent_color_red">Sistemos tema: Raudona</string>
+  <string name="accent_color_teal">Sistemos tema: Kryalas</string>
+  <string name="accent_color_white">Sistemos tema: Balta</string>
+  <string name="accent_color_yellow">Sistemos tema: Geltona</string>
 </resources>

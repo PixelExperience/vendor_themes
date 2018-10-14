@@ -16,18 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="system_overlay_dark">सिस्टिम मुख्य थीम: डार्क</string>
+  <string name="systemui_overlay_dark">सिस्टिम UI मुख्य थीम: डार्क</string>
+  <string name="settings_overlay_dark">सेटिंग मुख्य थीम: डार्क</string>
+  <string name="gboard_overlay_dark">GBoard मुख्य थीम: डार्क</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">सिस्टिम थीम: गडद पिवळी</string>
   <string name="accent_color_black">सिस्टिम थीम: काळी</string>
   <string name="accent_color_bluegrey">सिस्टिम थीम: निळी राखाडी</string>
   <string name="accent_color_blue">सिस्टिम थीम: निळी</string>
   <string name="accent_color_brown">सिस्टिम थीम: तपकिरी</string>
   <string name="accent_color_cyan">सिस्टिम थीम: आकाशी</string>
-  <string name="accent_color_deeporange">सिस्टिम थीम: नारिंगी</string>
-  <string name="accent_color_deeppurple">सिस्टिम थीम: जांभळा</string>
-  <string name="accent_color_green">सिस्टिम थीम: हिरवा</string>
+  <string name="accent_color_deeporange">सिस्टिम थीम: गडद नारिंगी</string>
+  <string name="accent_color_deeppurple">सिस्टिम थीम: गडद जांभळी</string>
+  <string name="accent_color_green">सिस्टिम थीम: हिरवी</string>
   <string name="accent_color_grey">सिस्टिम थीम: राखाडी</string>
+  <string name="accent_color_indigo">सिस्टिम थीम: जांभळी</string>
+  <string name="accent_color_lightblue">सिस्टिम थीम: फिकी निळी</string>
+  <string name="accent_color_lightgreen">सिस्टिम थीम: फिकी हिरवी</string>
+  <string name="accent_color_lime">सिस्टिम थीम: पिवळी</string>
   <string name="accent_color_orange">सिस्टिम थीम: नारिंगी</string>
+  <string name="accent_color_pink">सिस्टिम थीम: गुलाबी</string>
   <string name="accent_color_purple">सिस्टिम थीम: जांभळा</string>
   <string name="accent_color_red">सिस्टिम थीम: लाल</string>
-  <string name="accent_color_yellow">सिस्टिम थीम: पिवळा</string>
+  <string name="accent_color_teal">सिस्टिम थीम: गडद लाल</string>
+  <string name="accent_color_white">सिस्टिम थीम: पांढरी</string>
+  <string name="accent_color_yellow">सिस्टिम थीम: पिवळी</string>
 </resources>

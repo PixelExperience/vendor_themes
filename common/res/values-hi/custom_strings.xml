@@ -16,7 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
-  <string name="system_overlay_dark">प्रारंभिक प्रणाली विषय: गहरे रंग का</string>
-  <string name="systemui_overlay_dark">प्रारंभिक प्रणाली दिखाव विषय: गहरे रंग का</string>
+  <string name="system_overlay_dark">प्रधान प्रणाली थीम: गहरे रंग का</string>
+  <string name="systemui_overlay_dark">प्रधान प्रणाली यूआई थीम: गहरे रंग का</string>
+  <string name="settings_overlay_dark">प्रधान सेटिंग्स थीम: गाढ़ा रंग</string>
+  <string name="gboard_overlay_dark">जीबोर्ड प्रधान थीम: गाढ़ा रंग</string>
   <!-- Accent colors -->
+  <string name="accent_color_amber">प्रणाली थीम: कहरुवा</string>
+  <string name="accent_color_black">प्रणाली थीम: काला</string>
+  <string name="accent_color_bluegrey">प्रणाली थीम: स्लेटी नीला</string>
+  <string name="accent_color_blue">प्रणाली थीम: नीला</string>
+  <string name="accent_color_brown">प्रणाली थीम: भूरा</string>
+  <string name="accent_color_cyan">प्रणाली थीम: आसमानी</string>
+  <string name="accent_color_deeporange">प्रणाली थीम: गहरा नारंगी</string>
+  <string name="accent_color_deeppurple">प्रणाली थीम: गहरा बैंगनी</string>
+  <string name="accent_color_green">प्रणाली थीम: हरा</string>
+  <string name="accent_color_grey">प्रणाली थीम: स्लेटी</string>
+  <string name="accent_color_indigo">उभार_रंग_नील</string>
+  <string name="accent_color_lightblue">प्रणाली थीम: हलका नीला</string>
+  <string name="accent_color_lightgreen">प्रणाली थीम: हलका हरा</string>
+  <string name="accent_color_lime">प्रणाली थीम: पीला हरा</string>
+  <string name="accent_color_orange">प्रणाली थीम: नारंगी</string>
+  <string name="accent_color_pink">प्रणाली थीम: गुलाबी</string>
+  <string name="accent_color_purple">प्रणाली थीम: बैंगनी</string>
+  <string name="accent_color_red">प्रणाली थीम: लाल</string>
+  <string name="accent_color_teal">प्रणाली थीम: चैती</string>
+  <string name="accent_color_white">प्रणाली थीम: सफेद</string>
+  <string name="accent_color_yellow">प्रणाली थीम: पीला</string>
 </resources>
