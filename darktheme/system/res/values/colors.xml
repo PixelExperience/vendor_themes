@@ -48,4 +48,7 @@
     <color name="notification_ripple_tinted_color">#fffefefe</color>
     <color name="notification_gear_color">#ffffffff</color>
 
+    <!-- App permission tint -->
+    <color name="app_permission_icon_tint">@android:color/white</color>
+
 </resources>
