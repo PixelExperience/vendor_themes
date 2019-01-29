@@ -149,7 +149,7 @@
         <item name="android:textColorSecondary">#fff5f5f5</item>
         <item name="android:textColorTertiary">#b3f5f5f5</item>
         <item name="android:textColorHint">#ff999999</item>
-        <item name="android:textColorAlertDialogListItem">#ffffffff</item>"Theme.Material.Light.Dialog.MinWidth">
+        <item name="android:textColorAlertDialogListItem">#ffffffff</item>
         <item name="android:windowTitleStyle">@*android:style/DialogWindowTitle.DeviceDefault</item>
         <item name="android:windowAnimationStyle">@*android:style/Animation.DeviceDefault.Dialog</item>
 
