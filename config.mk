@@ -3,4 +3,5 @@ PRODUCT_PACKAGES += \
     SystemDark \
     SystemUIDark \
     GBoardDark \
-    GBoardLight
+    GBoardLight \
+    VelvetDark
