@@ -4,4 +4,5 @@ PRODUCT_PACKAGES += \
     SystemUIDark \
     GBoardDark \
     GBoardLight \
-    VelvetDark
+    VelvetDark \
+    WellbeingDark
