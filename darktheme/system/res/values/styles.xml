@@ -426,7 +426,7 @@
         <!-- Toolbar attributes -->
         <item name="android:toolbarStyle">@*android:style/Widget.DeviceDefault.Toolbar</item>
     </style>
-    <style name="Theme.DeviceDefault.System" parent="@*android:style/Theme.Material">
+    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@*android:style/Theme.Material.Light.DarkActionBar">
         <item name="android:windowTitleStyle">@*android:style/DialogWindowTitle.DeviceDefault</item>
         <item name="android:windowAnimationStyle">@*android:style/Animation.DeviceDefault.Dialog</item>
         <item name="android:buttonBarStyle">@*android:style/DeviceDefault.ButtonBar.AlertDialog</item>
@@ -524,7 +524,7 @@
         <!-- Toolbar attributes -->
         <item name="android:toolbarStyle">@*android:style/Widget.DeviceDefault.Toolbar</item>
     </style>
-    <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar">
+    <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@*android:style/Theme.Material.Light.NoActionBar">
         <item name="android:colorPrimary">@*android:color/primary_device_default_dark</item>
         <item name="android:colorPrimaryDark">@*android:color/primary_dark_device_default_settings</item>
         <item name="android:colorAccent">@*android:color/accent_device_default_dark</item>
