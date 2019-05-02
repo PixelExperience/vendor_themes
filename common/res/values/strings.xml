@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Accent colors -->
+    <string name="accent_black">Black</string>
+    <string name="accent_white">White</string>
+    <string name="accent_teal">Teal</string>
+    <string name="accent_brown">Brown</string>
+    <string name="accent_cyan">Cyan</string>
+    <string name="accent_green">Green</string>
+    <string name="accent_orange">Orange</string>
+    <string name="accent_pink">Pink</string>
+    <string name="accent_purple">Purple</string>
+    <string name="accent_red">Red</string>
+    <string name="accent_yellow">Yellow</string>
+</resources>
