@@ -5,7 +5,10 @@ PRODUCT_PACKAGES += \
     SystemUIDark \
     GBoardDark \
     GBoardLight \
-    WellbeingDark
+    WellbeingDark \
+    DeviceSettingsDark \
+    DeviceSettings2Dark \
+    DeviceSettings3Dark
 
 # Accents
 PRODUCT_PACKAGES += \
