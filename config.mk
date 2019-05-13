@@ -8,7 +8,9 @@ PRODUCT_PACKAGES += \
     WellbeingDark \
     DeviceSettingsDark \
     DeviceSettings2Dark \
-    DeviceSettings3Dark
+    DeviceSettings3Dark \
+    DocumentsUIDark \
+    UpdatesDark
 
 # Accents
 PRODUCT_PACKAGES += \
