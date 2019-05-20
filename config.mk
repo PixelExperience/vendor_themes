@@ -2,13 +2,19 @@ PRODUCT_PACKAGES += \
     SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
+    SystemBlack \
     SystemUIDark \
+    SystemUIBlack \
     GBoardDark \
     GBoardLight \
-    WellbeingDark \
+    WellbeingTheme \
     DeviceSettingsDark \
     DeviceSettings2Dark \
-    DeviceSettings3Dark
+    DeviceSettings3Dark \
+    DocumentsUIDark \
+    DocumentsUIBlack \
+    UpdatesDark \
+    UpdatesBlack
 
 # Accents
 PRODUCT_PACKAGES += \
