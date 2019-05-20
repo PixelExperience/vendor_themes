@@ -7,7 +7,7 @@ PRODUCT_PACKAGES += \
     SystemUIBlack \
     GBoardDark \
     GBoardLight \
-    WellbeingDark \
+    WellbeingTheme \
     DeviceSettingsDark \
     DeviceSettings2Dark \
     DeviceSettings3Dark \
