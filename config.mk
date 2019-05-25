@@ -1,5 +1,4 @@
 PRODUCT_PACKAGES += \
-    SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
     SystemBlack \
