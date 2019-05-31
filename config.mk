@@ -8,9 +8,6 @@ PRODUCT_PACKAGES += \
     GBoardDark \
     GBoardLight \
     WellbeingTheme \
-    DeviceSettingsDark \
-    DeviceSettings2Dark \
-    DeviceSettings3Dark \
     DocumentsUIDark \
     DocumentsUIBlack \
     UpdatesDark \
