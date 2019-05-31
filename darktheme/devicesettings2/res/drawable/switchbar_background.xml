@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:color="#333333" android:state_activated="false" />
-    <item android:color="@*android:color/custom_accent_color" android:state_activated="true" />
-</selector>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/switch_bar_bg" />
+</shape>
