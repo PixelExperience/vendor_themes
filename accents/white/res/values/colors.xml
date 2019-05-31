@@ -23,4 +23,5 @@
     <color name="material_deep_teal_500">#ffffff</color>
     <color name="notification_icon_bg_color">#ffffff</color>
     <color name="system_notification_accent_color">#ffffff</color>
+    <color name="custom_accent_color">#212121</color>
 </resources>
