@@ -4,9 +4,9 @@
     <!-- Accent colors -->
     <string name="accent_black">Đen</string>
     <string name="accent_white">Trắng</string>
-    <string name="accent_teal">Xanh mòng két</string>
+    <string name="accent_teal">Xanh lục</string>
     <string name="accent_brown">Nâu</string>
-    <string name="accent_cyan">Xanh lá mạ</string>
+    <string name="accent_cyan">Xanh da trời</string>
     <string name="accent_green">Xanh lá</string>
     <string name="accent_orange">Cam</string>
     <string name="accent_pink">Hồng</string>

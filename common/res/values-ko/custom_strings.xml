@@ -3,8 +3,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Accent colors -->
     <string name="accent_black">검은색</string>
-    <string name="accent_white">하얀색</string>
-    <string name="accent_teal">청록색</string>
+    <string name="accent_white">흰색</string>
+    <string name="accent_teal">암청색</string>
     <string name="accent_brown">갈색</string>
     <string name="accent_cyan">청록색</string>
     <string name="accent_green">초록색</string>
@@ -12,5 +12,5 @@
     <string name="accent_pink">분홍색</string>
     <string name="accent_purple">보라색</string>
     <string name="accent_red">빨간색</string>
-    <string name="accent_yellow">노랑색</string>
+    <string name="accent_yellow">노란색</string>
 </resources>
