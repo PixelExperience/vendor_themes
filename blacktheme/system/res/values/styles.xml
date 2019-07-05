@@ -626,4 +626,9 @@
         <item name="android:textAppearanceListItem">@*android:style/TextAppearancePreference</item>
         <item name="android:textAppearanceListItemSmall">@*android:style/TextAppearancePreference</item>
     </style>
+    <style name="Theme.Dialog.AppError" parent="@*android:style/CustomThemeDeviceDefaultDialogAlert">
+        <item name="android:windowContentTransitions">false</item>
+        <item name="android:windowActivityTransitions">false</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
 </resources>
