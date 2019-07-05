@@ -1,5 +1,6 @@
 PRODUCT_PACKAGES += \
     FaceLockDark \
+    SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
     SystemBlack \
