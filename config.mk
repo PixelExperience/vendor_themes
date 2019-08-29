@@ -3,7 +3,9 @@ PRODUCT_PACKAGES += \
     SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
+    SystemNotificationsDark \
     SystemBlack \
+    SystemNotificationsBlack \
     SystemUIDark \
     SystemUIBlack \
     DocumentsUIDark \
