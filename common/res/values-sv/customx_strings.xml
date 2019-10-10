@@ -4,5 +4,11 @@
     <!-- Accent colors -->
     <string name="accent_black">Svart</string>
     <string name="accent_white">Vit</string>
+    <string name="accent_brown">Brun</string>
+    <string name="accent_green">Grön</string>
+    <string name="accent_orange">Orange</string>
     <string name="accent_pink">Rosa</string>
+    <string name="accent_purple">Lila</string>
+    <string name="accent_red">Röd</string>
+    <string name="accent_yellow">Gul</string>
 </resources>
